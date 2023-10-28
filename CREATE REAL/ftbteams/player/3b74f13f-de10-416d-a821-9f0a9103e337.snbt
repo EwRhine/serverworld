@@ -1,0 +1,17 @@
+{
+	id: "3b74f13f-de10-416d-a821-9f0a9103e337"
+	type: "player"
+	player_name: "AFK"
+	ranks: {
+		3b74f13f-de10-416d-a821-9f0a9103e337: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "AFK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

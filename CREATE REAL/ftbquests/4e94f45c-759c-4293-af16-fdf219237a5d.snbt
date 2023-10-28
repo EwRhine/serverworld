@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4e94f45c759c4293af16fdf219237a5d"
+	name: "Miner"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

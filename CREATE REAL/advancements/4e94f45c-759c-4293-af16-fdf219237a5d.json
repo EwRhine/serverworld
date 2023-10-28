@@ -1,0 +1,33 @@
+{
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2023-10-22 05:36:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-10-22 05:36:39 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2023-10-22 05:36:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-10-22 05:36:22 +0100"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2023-10-22 05:36:21 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

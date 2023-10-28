@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3b74f13fde10416da8219f0a9103e337"
+	name: "AFK"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

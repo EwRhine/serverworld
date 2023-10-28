@@ -1,0 +1,17 @@
+{
+	id: "4e94f45c-759c-4293-af16-fdf219237a5d"
+	type: "player"
+	player_name: "Miner"
+	ranks: {
+		4e94f45c-759c-4293-af16-fdf219237a5d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Miner"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

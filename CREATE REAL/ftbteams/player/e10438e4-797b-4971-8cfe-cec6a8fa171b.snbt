@@ -1,0 +1,17 @@
+{
+	id: "e10438e4-797b-4971-8cfe-cec6a8fa171b"
+	type: "player"
+	player_name: "Nether"
+	ranks: {
+		e10438e4-797b-4971-8cfe-cec6a8fa171b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nether"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

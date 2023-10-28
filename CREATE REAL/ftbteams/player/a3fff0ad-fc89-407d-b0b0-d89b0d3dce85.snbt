@@ -1,0 +1,17 @@
+{
+	id: "a3fff0ad-fc89-407d-b0b0-d89b0d3dce85"
+	type: "player"
+	player_name: "THE_PINPAL"
+	ranks: {
+		a3fff0ad-fc89-407d-b0b0-d89b0d3dce85: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "THE_PINPAL"
+		"ftbteams:description": ""
+		"ftbteams:color": "#84FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

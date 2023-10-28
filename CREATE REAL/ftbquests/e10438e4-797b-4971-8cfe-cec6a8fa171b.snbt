@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e10438e4797b49718cfecec6a8fa171b"
+	name: "Nether"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
